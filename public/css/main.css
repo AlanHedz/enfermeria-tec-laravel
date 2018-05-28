@@ -1,0 +1,26 @@
+html, body{
+   height: 100%;
+   margin: 0;
+ }
+ .full-height{
+	height: 100%;
+ }
+.white-text {
+	color: #f0f0f0;
+}
+.no-margin {
+	margin: 0;
+}
+.main-background {
+	background-size: cover;
+	background-repeat: none;
+}
+.big-padding{
+	padding:2em 1.5em;
+ }
+.top-space {
+	margin-top: 1em;
+}
+.white {
+	background-color: white;
+}
